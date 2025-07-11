@@ -8,6 +8,7 @@ to appear in the Proceedings of the 42nd International Conference on Machine Lea
 
 Contents of this repository:
 - **README** This file.
+- **SOFTWARE LICENSE AGREEMENT FOR EVALUATION** The user must comply with the rules described herein.
 - **multproducts_pricing folder** It contains the Python script used in our experiments for the multiple-products pricing application.
 - **strategic_classification folder** It contains the Python script used in our experiments for the strategic classification application.
 
@@ -52,3 +53,11 @@ The code was implemented in Python 3.12.2.
 2. The results will be saved in a folder named according to the corresponding data ID and the input arguments.
 
 3. To manually configure parameters, edit the sections labeled `#common settings` or `#settings for each method` in the script.
+
+## Licence
+You must follow the terms of the "NTT Software License Agreement."
+Be sure to read it.
+
+## Author
+Yuya Hikima wrote this text.
+If you have any problems, please contact yuya.hikima at gmail.com.
